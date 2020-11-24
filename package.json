@@ -1,0 +1,22 @@
+{
+  "name": "zodiac_app",
+  "version": "1.0.0",
+  "description": "making zodiacweb application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhampal39/Zodiac_App.git"
+  },
+  "author": "shubham pal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhampal39/Zodiac_App/issues"
+  },
+  "homepage": "https://github.com/shubhampal39/Zodiac_App#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
